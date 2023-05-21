@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+
+    
+}
+main{
+    display: block;
+    margin: auto;
+    max-width: 75%;
+   
+}
+img{
+    margin: auto;
+    border-top: 10px groove yellow; 
+    border-bottom: 10px ridge blue;
+    border-radius: 100%;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+    
+a{
+    color: gray;
+  text-decoration: none;
+}
+a:hover{
+color: blue;
+text-decoration: underline green;
+}
+h2{
+    background-color: burlywood;
+}
+ul{
+    background-color: bisque;
+}
