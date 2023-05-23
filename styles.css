@@ -1,5 +1,6 @@
 body{
     text-align: center;
+    background-color: burlywood;
 
     
 }
@@ -11,10 +12,10 @@ main{
 }
 img{
     margin: auto;
-    border-top: 10px groove yellow; 
-    border-bottom: 10px ridge blue;
+    border-top: 50px groove yellow; 
+    border-bottom: 50px ridge  blue;
     border-radius: 100%;
-    display: flex;
+    /* display: flex; */
    justify-content: center;
     align-items: center;
     margin-bottom: 20px;
@@ -30,8 +31,9 @@ color: blue;
 text-decoration: underline green;
 }
 h2{
-    background-color: burlywood;
+    padding-top: 10px;
 }
 ul{
-    background-color: bisque;
+    margin-bottom: 50px;
+    text-align: justify;
 }
