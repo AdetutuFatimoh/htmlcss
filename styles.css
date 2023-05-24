@@ -14,8 +14,7 @@ img{
     margin: auto;
     border-top: 50px groove yellow; 
     border-bottom: 50px ridge  blue;
-    border-radius: 100%;
-    display: flex;
+    border-radius: 50%;
    justify-content: center;
     align-items: center;
     margin-bottom: 20px;
@@ -36,4 +35,5 @@ h2{
 ul{
     margin-bottom: 50px;
     text-align: justify;
+    line-height: 1.5;
 }
